@@ -1,0 +1,5 @@
+C:\Andre\Projetos\VS\RPG\RPG.Core.Domain\bin\Debug\netcoreapp2.1\RPG.Core.Domain.deps.json
+C:\Andre\Projetos\VS\RPG\RPG.Core.Domain\bin\Debug\netcoreapp2.1\RPG.Core.Domain.dll
+C:\Andre\Projetos\VS\RPG\RPG.Core.Domain\obj\Debug\netcoreapp2.1\RPG.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Andre\Projetos\VS\RPG\RPG.Core.Domain\obj\Debug\netcoreapp2.1\RPG.Core.Domain.AssemblyInfoInputs.cache
+C:\Andre\Projetos\VS\RPG\RPG.Core.Domain\obj\Debug\netcoreapp2.1\RPG.Core.Domain.AssemblyInfo.cs
