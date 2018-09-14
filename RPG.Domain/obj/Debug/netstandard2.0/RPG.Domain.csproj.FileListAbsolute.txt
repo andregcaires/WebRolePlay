@@ -1,0 +1,12 @@
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\bin\Debug\netstandard2.0\RPG.Domain.deps.json
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\bin\Debug\netstandard2.0\RPG.Domain.dll
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\bin\Debug\netstandard2.0\RPG.Domain.pdb
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\obj\Debug\netstandard2.0\RPG.Domain.csprojAssemblyReference.cache
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\obj\Debug\netstandard2.0\RPG.Domain.csproj.CoreCompileInputs.cache
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\obj\Debug\netstandard2.0\RPG.Domain.AssemblyInfoInputs.cache
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\obj\Debug\netstandard2.0\RPG.Domain.AssemblyInfo.cs
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\obj\Debug\netstandard2.0\RPG.Domain.csproj.CopyComplete
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\obj\Debug\netstandard2.0\RPG.Domain.dll
+C:\AndreTrust\Treinamentos\VS\WebRolePlay\RPG.Domain\obj\Debug\netstandard2.0\RPG.Domain.pdb
