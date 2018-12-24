@@ -6,6 +6,8 @@ namespace RPG.Domain.Models
 {
     public class Campaign : Entity
     {
+        public virtual Character Master { get; set; }
+
         public virtual List<Character> Characters { get; set; }
 
         public virtual List<Opponent> Opponents { get; set; }
@@ -18,6 +20,9 @@ namespace RPG.Domain.Models
 
         public virtual List<CampaignAction> CampaignActions { get; set; }
 
-        public virtual Status Status { get; set; }
+        public virtual CampaignStatus Status { get; set; }
+
+        public virtual List<Battle> Battles { get; set; }
+
     }
 }
